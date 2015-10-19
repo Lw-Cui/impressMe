@@ -1,3 +1,5 @@
-# impressMe -- show you my class!
+# Class one and me
 
-**[click me!](http://lw-cui.github.io/impressMe)**
+**[Click me!](http://classoneand.me/)**
+
+My URL is http://classoneand.me/ ~
