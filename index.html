@@ -8,28 +8,27 @@
     <meta name="description" content="Our class introduction power by impress.js"/>
     <meta name="author" content="Lw Cui"/>
 
-    <!-- TO DO! -->
-    <!--<link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />-->
-
-    <link href="css/origin.css" rel="stylesheet"/>
-    <link href="css/impressMe.css" rel="stylesheet"/>
+    <link href="css/origin.css" rel="stylesheet">
+    <link href="css/impressMe.css" rel="stylesheet">
 </head>
 
 <body class="impress-not-supported">
 
 <div id="impress">
 
-    <div id="bored1" class="step slide" data-x="-1300" data-y="-1500" data-scale="2">
+    <!--
+    <div id="first" class="step slide" data-x="-1300" data-y="-1500" data-scale="2">
         <img src="char/ntsg.PNG" class="begImg">
     </div>
 
-    <div id="bored2" class="step slide" data-x="150" data-y="-1500">
+    <div id="second" class="step slide" data-x="150" data-y="-1500">
         <img src="char/wmd.PNG" class="begImg">
     </div>
 
-    <div id="bored3" class="step slide" data-x="900" data-y="-1500" data-scale="0.5">
+    <div id="third" class="step slide" data-x="900" data-y="-1500" data-scale="0.5">
         <img src="char/gsm.PNG" class="begImg">
     </div>
+    -->
 
     <div id="title" class="step" data-x="-500" data-y="300" data-scale="4">
         <img src="char/class one.PNG" alt="" style="position: absolute; left: 0; z-index: 1;">
@@ -58,7 +57,7 @@
 
 
     <div id="studyChar" class="step" data-x="-1500" data-y="2420" data-z="800" data-scale="3" data-rotate-x="90">
-        <img src="char/study.PNG" alt="" style="position: absolute; left: 0; z-index: 1;">
+        <img src="char/study.PNG">
     </div>
 
     <div id="masterImg" class="step" data-x="-2500" data-y="7020" data-z="800" data-scale="0.05" data-rotate-x="90">
@@ -66,7 +65,7 @@
     </div>
 
     <div id="masterChar" class="step" data-x="-2545" data-y="7020" data-z="800" data-scale="0.07" data-rotate-x="90"
-            data-rotate-y="60">
+         data-rotate-y="60">
         <img src="char/masterInstruct.PNG">
     </div>
 
@@ -79,7 +78,7 @@
     </div>
 
     <div id="analysisImg" class="step" data-x="-2400" data-y="7015" data-z="835" data-scale="0.05" data-rotate-x="180"
-            data-rotate="20">
+         data-rotate="20">
         <img src="img/basketball.jpg">
     </div>
 
@@ -94,7 +93,11 @@
 </div>
 
 <script src="js/impress.js"></script>
-<script>impress().init();</script>
+<script>
+    var impress = impress();
+    impress.init();
+
+</script>
 
 </body>
 </html>

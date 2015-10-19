@@ -82,9 +82,10 @@ table {
     want to leave anybody behind.
 */
 body {
-    font-family: 'SimHei', 'ºÚÌå', 'PT Sans', sans-serif;
+    font-family: 'SimHei', '????', 'PT Sans', sans-serif;
     min-height: 740px;
 
+    /*
     background: rgb(215, 215, 215);
     background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(240, 240, 240)), to(rgb(190, 190, 190)));
     background: -webkit-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
@@ -92,6 +93,7 @@ body {
     background:     -ms-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
     background:      -o-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
     background:         radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+    */
 }
 
 /*
@@ -442,7 +444,7 @@ a:focus {
     -moz-transform:    translateZ(40px);
     -ms-transform:     translateZ(40px);
     -o-transform:      translateZ(40px);
-     transform:        translateZ(40px);
+    transform:        translateZ(40px);
 
     -webkit-transition: 0.5s;
     -moz-transition:    0.5s;
