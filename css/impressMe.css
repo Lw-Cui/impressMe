@@ -1,7 +1,7 @@
-.begImg {
+.Img {
     position: absolute;
-    top: 200px;
-    left: 150px;
+    left: -150px;
+    top: -300px;
 }
 
 .impress-enabled {
@@ -12,8 +12,8 @@
 }
 
 .impress-on-title {
-     background-color: #a8ffcb;
- }
+    background-color: #a8ffcb;
+}
 
 .impress-on-studyImg1 {
     background-color: #84ff9a;
@@ -24,7 +24,7 @@
 }
 
 .impress-on-studyChar {
-    background-color: #ff903b;
+    background-color: #85ff58;
 }
 
 .impress-on-masterImg {
@@ -45,4 +45,8 @@
 
 .impress-on-analysisImg {
     background-color: #6ccbff;
+}
+
+.impress-on-grade {
+    background-color: #94ff8f;
 }
