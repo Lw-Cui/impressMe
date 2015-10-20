@@ -180,7 +180,8 @@
                           // because their CSS 3D support or hardware is not
                           // good enough to run impress.js properly, sorry...
                            ( ua.search(/(iphone)|(ipod)|(android)/) === -1 );
-    
+
+    impressSupported = true;
     if (!impressSupported) {
         // we can't be sure that `classList` is supported
         body.className += " impress-not-supported ";
@@ -188,7 +189,7 @@
         body.classList.remove("impress-not-supported");
         body.classList.add("impress-supported");
     }
-    
+
     // GLOBALS AND DEFAULTS
     
     // This is where the root elements of all impress.js instances will be kept.
