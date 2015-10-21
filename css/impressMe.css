@@ -28,14 +28,6 @@
     background-color: #85ff58;
 }
 
-.char {
-    opacity: 0;
-}
-
-.char.active {
-    opacity: 1;
-}
-
 .impress-on-masterImg {
     background-color: #67c6ff;
 }
@@ -56,8 +48,16 @@
     background-color: #6ccbff;
 }
 
-.impress-on-grade {
+.impress-on-analysisChar {
+    background-color: #61dfff;
+}
+
+.impress-on-gradeImg {
     background-color: #94ff8f;
+}
+
+.impress-on-gradeChar {
+    background-color: #59ff75;
 }
 
 .impress-on-interval {
