@@ -1,5 +1,7 @@
 # Class one and me
 
-**[Click me!](http://classoneand.me/)**
+**Click me!**
 
-My URL is http://classoneand.me/ ~
+URL is [http://classoneand.me](http://classoneand.me) ~
+
+And open [https://classoneand.me](https://classoneand.me) if you'd like use secure socket layout
