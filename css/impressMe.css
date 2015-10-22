@@ -1,8 +1,17 @@
 .Img {
-    position: absolute;
+    position: fixed;
     left: -150px;
     top: -300px;
     width: 1200px;
+    opacity: 1;
+}
+
+.background {
+    opacity: 0.2;
+    position: fixed;
+    left: -550px;
+    top: -500px;
+    width: 2200px;
 }
 
 .impress-enabled {
@@ -31,8 +40,12 @@
     background-color: #44ffdb;
 }
 
+.impress-on-studyIntro {
+    background-color: #5fffb0;
+}
+
 .impress-on-studyChar {
-    background-color: #85ff58;
+    background-color: #3bffca;
 }
 
 .impress-on-masterImg {
@@ -48,7 +61,7 @@
 }
 
 .impress-on-adviserChar {
-    background-color: greenyellow;
+    background-color: #44ffb8;
 }
 
 .impress-on-analysisImg {
@@ -56,7 +69,7 @@
 }
 
 .impress-on-analysisChar {
-    background-color: #61dfff;
+    background-color: #99ebff;
 }
 
 .impress-on-gradeImg {
@@ -67,12 +80,20 @@
     background-color: #59ff75;
 }
 
+.impress-on-gradeChar2 {
+    background-color: #54f3ff;
+}
+
 .impress-on-interval {
     background-color: #6ccbff;
 }
 
-.impress-on-partyChar {
-    background-color: #ffb74a;
+.impress-on-partyIntro1 {
+    background-color: #ff9b44;
+}
+
+.impress-on-partyIntro2 {
+    background-color: #ff695d;
 }
 
 .impress-on-partyImg {
@@ -120,20 +141,17 @@
 }
 
 .impress-on-prizeACM {
-    background-color: #8c89ff;
+    background-color: #4653ff;
 }
 
 .impress-on-prizeCCF {
-    /*background: url(code.jpg);*/
-    background-color: #87bdff;
+    background-color: #6fffa3;
 }
 
 .impress-on-prizeEng {
-    background-color: #6ccbff;
-    /*background: url(../img/p1.JPG);*/
+    background-color: #45ff2a;
 }
 
 .impress-on-prizePE {
-    background: rgba(181, 255, 168, 0.8);
-    /*background: url(code.jpg);*/
+    background: rgba(52, 255, 65, 0.8);
 }
