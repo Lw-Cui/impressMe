@@ -10,6 +10,13 @@
     -moz-transition: background-color 1500ms linear, opacity 3s ease-in-out;
     -o-transition: background-color 1500ms linear, opacity 3s ease-in-out;
     transition: background-color 1500ms linear, opacity 3s ease-in-out;
+
+    /*
+    -webkit-transition: background 300ms ease-in 200ms;
+    -moz-transition: background 300ms ease-in 200ms;
+    -o-transition: background 300ms ease-in 200ms;
+    transition: background 300ms ease-in 200ms;
+    */
 }
 
 .impress-on-title {
@@ -76,6 +83,10 @@
     background-color: #c5ffa6;
 }
 
+.impress-on-partyImg3 {
+    background-color: #ff933f;
+}
+
 .impress-on-workChar {
     background-color: #6ccbff;
 }
@@ -113,13 +124,16 @@
 }
 
 .impress-on-prizeCCF {
+    /*background: url(code.jpg);*/
     background-color: #87bdff;
 }
 
 .impress-on-prizeEng {
     background-color: #6ccbff;
+    /*background: url(../img/p1.JPG);*/
 }
 
 .impress-on-prizePE {
-    background-color: #6ed8ff;
+    background: rgba(181, 255, 168, 0.8);
+    /*background: url(code.jpg);*/
 }
