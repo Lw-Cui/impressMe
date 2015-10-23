@@ -7,7 +7,7 @@
 }
 
 .background {
-    opacity: 0.2;
+    opacity: 0.3;
     position: fixed;
     left: -550px;
     top: -500px;
@@ -133,7 +133,7 @@
 }
 
 .impress-on-eduImg2 {
-    background-color: #ff9ae7;
+    background-color: #fff192;
 }
 
 .impress-on-eduImg3 {
@@ -141,11 +141,11 @@
 }
 
 .impress-on-eduImg4 {
-    background-color: #c995ff;
+    background-color: #32eeff;
 }
 
 .impress-on-prizeACM {
-    background-color: #4653ff;
+    background-color: #32eeff;
 }
 
 .impress-on-prizeCCF {
@@ -153,7 +153,7 @@
 }
 
 .impress-on-prizeEng {
-    background-color: #45ff2a;
+    background-color: #2effdc;
 }
 
 .impress-on-prizePE {
