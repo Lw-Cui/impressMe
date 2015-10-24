@@ -129,7 +129,7 @@
 }
 
 .impress-on-libImg {
-    background-color: #31ff8f;
+    background-color: #fff192;
 }
 
 .impress-on-teamImg {
@@ -177,6 +177,34 @@
 
 .impress-on-cultureIntro2 {
     background: rgba(166, 255, 132, 0.8);
+}
+
+.impress-on-sing {
+    background: rgba(59, 255, 202, 0.8);
+}
+
+.impress-on-show {
+    background: rgba(252, 255, 145, 0.8);
+}
+
+.impress-on-room {
+    background: rgba(77, 190, 255, 0.8);
+}
+
+.impress-on-friend {
+    background: rgba(255, 105, 93, 0.8);
+}
+
+.impress-on-energyIntro {
+    background-color: #32eeff;
+}
+
+.impress-on-energy {
+    background-color: #54f3ff;
+}
+
+.impress-on-energyChar {
+    background-color: #ff9b44;
 }
 
 .impress-on-debate {
