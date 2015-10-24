@@ -188,6 +188,10 @@
     background: rgba(255, 105, 93, 0.8);
 }
 
+.impress-on-energyIntro0 {
+    background-color: #32eeff;
+}
+
 .impress-on-energyIntro {
     background-color: #32eeff;
 }
@@ -214,6 +218,37 @@
 
 .impress-on-game {
     background: rgba(255, 105, 93, 0.8);
+}
+
+.impress-on-eat {
+    background: rgba(255, 105, 93, 0.8);
+}
+
+.impress-on-wx {
+    background: rgba(255, 230, 163, 0.8);
+}
+
+.impress-on-bst {
+    background: rgba(255, 203, 103, 0.8);
+}
+
+.impress-on-lpy {
+    background: rgba(59, 255, 202, 0.8);
+}
+
+.impress-on-lpy2 {
+    background-color: #3afcff;
+}
+
+.impress-on-yz2 {
+    background-color: #50ff75;
+}
+
+.impress-on-zdq2 {
+}
+
+.impress-on-clw2 {
+    background-color: #32eeff;
 }
 
 .impress-on-all {
