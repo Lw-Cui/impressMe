@@ -19,13 +19,6 @@
     -moz-transition: background-color 1500ms linear, opacity 3s ease-in-out;
     -o-transition: background-color 1500ms linear, opacity 3s ease-in-out;
     transition: background-color 1500ms linear, opacity 3s ease-in-out;
-
-    /*
-    -webkit-transition: background 300ms ease-in 200ms;
-    -moz-transition: background 300ms ease-in 200ms;
-    -o-transition: background 300ms ease-in 200ms;
-    transition: background 300ms ease-in 200ms;
-    */
 }
 
 .impress-on-title {
@@ -221,4 +214,16 @@
 
 .impress-on-game {
     background: rgba(255, 105, 93, 0.8);
+}
+
+.impress-on-all {
+    background: rgba(59, 255, 202, 0.8);
+}
+
+.impress-on-all2 {
+    background: rgba(166, 255, 132, 0.8);
+}
+
+.impress-on-all3 {
+    background: rgba(77, 190, 255, 0.8);
 }
